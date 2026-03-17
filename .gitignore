@@ -1,0 +1,16 @@
+# Dependency folders
+**/node_modules/
+**/dist/
+**/build/
+
+# Environment variables (Sensitive data!)
+**/.env
+**/.env.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
